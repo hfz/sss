@@ -68,7 +68,7 @@
             <?php //include_once ('widget/visitor.php');?>
         </div>
         <div id="footer">
-            <p>Modified by : <a title="Hafiz.me" href="http://hafiz.me/" target="_blank"> Hafiz</a> & <a href="https://www.facebook.com/wahyu44" target="_blank"> Wahyu</a> | From template <a href="http://www.solucija.com/template/watch-this" target="_blank"> Watchthis Solucija</a></p>
+            <p>Modified by : <a title="Hafiz.me" href="http://hafiz.me/" target="_blank"> Abdul Hafiz</a> & <a href="https://www.facebook.com/wahyu44" target="_blank"> Wahyu</a> | From template <a href="http://www.solucija.com/template/watch-this" target="_blank"> Watchthis Solucija</a></p>
         </div>
     </div>
 </body>
